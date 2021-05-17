@@ -1,0 +1,78 @@
+body {
+  font-family: 'Spartan', sans-serif;
+}
+
+.card {
+  box-shadow: 2px 5px 5px #888;
+  margin: 15% auto;
+  padding: 3%;
+}
+
+.first-row {
+  color: hsl(300, 43%, 22%);
+  padding-bottom: 5%;
+}
+
+/* INTRO */
+.intro h1 {
+  font-weight: 700;
+}
+
+/* RATINGS */
+.rating {
+  font-weight: 600;
+  margin-top: 3%;
+  padding: 10px;
+}
+
+.rating1 {
+  margin-left: 5%;
+}
+
+.rating2 {
+  margin-left: 15%;
+}
+
+.rating3 {
+  margin-left: 25%;
+}
+
+/* REVIEWS */
+
+.buyer {
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 10px;
+  padding: 2%;
+  margin: 15px;
+  font-size: 0.8rem;
+  color: #fff;
+  width: 30%;
+}
+
+.buyer h3 {
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.buyer h5 {
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: hsl(333, 80%, 67%);
+}
+
+.buyer1 {
+  margin-top: 0;
+  margin-bottom: 5%;
+}
+
+.buyer2 {
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
+}
+
+.buyer3 {
+  margin-top: 5%;
+  margin-bottom: 0;
+}
+
+/* PHONE FORMAT */
